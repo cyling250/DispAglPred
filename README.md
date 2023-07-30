@@ -30,3 +30,7 @@ This is the list of hyperparameterizations this three networks.
 
 ## Network training and testing
 The training log and testing log are saved in file of "data.rar". Where the loss file for the training process corresponds to each saved .pt file.
+
+## Article
+You can get the article in 
+https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UEdgW7A9kgMeN-iY497CtC9hBOz_vldp8g-2TAPrChuv&uniplatform=NZKPT
